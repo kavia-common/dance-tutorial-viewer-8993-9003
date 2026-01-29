@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Beginner Hip-Hop Moves",
+    "author": "Jane Smith",
+    "description": "A fun collection of essential beginner hip-hop dance moves to get you started on the groove. Learn simple footwork, pops, and body isolations. No experience needed.",
+    "thumbnail": "https://picsum.photos/id/312/400/250",
+    "mediaType": "video",
+    "mediaUrl": "https://www.youtube.com/embed/R4YJbRpJxBw",
+    "duration": "12:36",
+    "level": "Beginner",
+    "styles": ["Hip-Hop", "Urban"],
+    "posted": "2023-03-10"
+  },
+  {
+    "id": 2,
+    "title": "Contemporary Flow: Express Yourself",
+    "author": "Alex Lee",
+    "description": "Discover the expressive beauty of contemporary dance with smooth transitions and flowing movement sequences. Ideal for all who want to unlock their emotional expression through dance.",
+    "thumbnail": "https://picsum.photos/id/239/400/250",
+    "mediaType": "video",
+    "mediaUrl": "https://www.youtube.com/embed/nvI_q8mdujY",
+    "duration": "19:21",
+    "level": "Intermediate",
+    "styles": ["Contemporary"],
+    "posted": "2023-04-02"
+  },
+  {
+    "id": 3,
+    "title": "Latin Salsa Party Steps",
+    "author": "Maria Gonzales",
+    "description": "Spice up your dance repertoire with this energetic salsa tutorial! Covers basic salsa steps, turns, and simple partner moves. Perfect for both solo and couples.",
+    "thumbnail": "https://picsum.photos/id/870/400/250",
+    "mediaType": "video",
+    "mediaUrl": "https://www.youtube.com/embed/YRZ-lSgQviY",
+    "duration": "15:50",
+    "level": "Beginner",
+    "styles": ["Salsa", "Latin"],
+    "posted": "2023-05-15"
+  },
+  {
+    "id": 4,
+    "title": "Ballet Basics: Grace & Posture",
+    "author": "Sophie Turner",
+    "description": "Learn the fundamental positions, exercises, and posture tips that form the foundation of classical ballet. Includes warm-up and beginner barre work.",
+    "thumbnail": "https://picsum.photos/id/1025/400/250",
+    "mediaType": "video",
+    "mediaUrl": "https://www.youtube.com/embed/jst4fCRJ6wE",
+    "duration": "17:10",
+    "level": "Beginner",
+    "styles": ["Ballet", "Classical"],
+    "posted": "2023-02-18"
+  },
+  {
+    "id": 5,
+    "title": "Freestyle Funk Jam",
+    "author": "Mike Dorsey",
+    "description": "Unleash your creativity in this high-energy freestyle session. Explore popping, locking, floorwork, and musicality for an all-out groove party.",
+    "thumbnail": "https://picsum.photos/id/1005/400/250",
+    "mediaType": "video",
+    "mediaUrl": "https://www.youtube.com/embed/8B-ZO5pRfO8",
+    "duration": "14:45",
+    "level": "Advanced",
+    "styles": ["Freestyle", "Funk"],
+    "posted": "2023-06-20"
+  },
+  {
+    "id": 6,
+    "title": "Jazz Funk Energy",
+    "author": "Emily Clarke",
+    "description": "Energetic jazz choreography mixing quick isolations, sharp moves, and classic jazz lines. Learn to connect upbeat moves with confidence.",
+    "thumbnail": "https://picsum.photos/id/1012/400/250",
+    "mediaType": "video",
+    "mediaUrl": "https://www.youtube.com/embed/3sbWNwO6ERC",
+    "duration": "10:32",
+    "level": "Intermediate",
+    "styles": ["Jazz Funk", "Jazz"],
+    "posted": "2023-07-05"
+  }
+]
