@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/dance-tutorial-viewer-8993-9003/dance_tutorial_frontend"
+}

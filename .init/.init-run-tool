@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/tmp/kavia/workspace/code-generation/dance-tutorial-viewer-8993-9003/dance_tutorial_frontend"
+}
